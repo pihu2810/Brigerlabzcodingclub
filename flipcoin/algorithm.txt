@@ -1,0 +1,6 @@
+step1=Creat a flipcoin.sh.Simulator
+step2=Find head and tails of a coin using RANDOM
+step3=Multiply the times of flip and note the count of head and tail
+step4=note that the tailcount and head count are tie or diffrent 
+step5=find the diffreane between the head and tail count
+step6=if the headcount and tailcount are tie then repeat it till the diffrence of minimum 2 point is achived
